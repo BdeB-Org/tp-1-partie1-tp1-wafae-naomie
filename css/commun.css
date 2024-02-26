@@ -20,6 +20,15 @@ background-position: center;
 background-repeat: no-repeat;
 background-attachment: fixed;
 }
+.accueil {
+    text-align: center;
+    color: #FFF;
+    letter-spacing: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-weight: 500;
+    
+}
 
 .description-accueil,
 .paragraphe-accueil {
