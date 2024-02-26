@@ -10,7 +10,6 @@ background-size: cover;
 background-position: center;
 background-repeat: no-repeat;
 background-attachment: fixed;
-
 }
 
 .description-accueil,
@@ -24,6 +23,24 @@ font-size: 24px;
 text-align: center;
 }
 
+.description-accueil {
+color: #FFF;
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 6px;
+}
+
+.paragraphe-accueil {
+    color: #FFF;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 6px;
+    margin-top: 200px;
+}
 nav a {
     color :#FFF;
     padding : 10px;
