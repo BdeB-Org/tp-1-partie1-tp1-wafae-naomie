@@ -1,8 +1,17 @@
 
 nav a {
     color :#FFF;
-    padding : 10px;
     text-decoration: none;
+    justify-content: center;
+    text-align: center;
+    position: sticky;
+    margin-left: 620px;
+    padding: 2px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: 500;
+    border: 2px #FFF;
+    border-style: double;
 }
 
 nav a:hover {
@@ -27,6 +36,8 @@ background-attachment: fixed;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 35px;
     font-weight: 500;
+    padding-top: 10px;
+    padding-bottom: 20px;
     
 }
 
@@ -50,13 +61,25 @@ line-height: normal;
 letter-spacing: 6px;
 }
 
+.a-venir{
+color: #FFF;
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 6px;
+padding-top: 40px;
+padding-bottom: 0px;
+padding-right: 30px;
+}
+
 .paragraphe-accueil {
     color: #FFF;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 600;
     line-height: normal;
-    letter-spacing: 6px;
+    letter-spacing: 5px;
     margin-top: 200px;
 }
 
@@ -66,6 +89,7 @@ letter-spacing: 6px;
     color: #FFF;
     font-size: 30px;
     padding: 50px;
+    margin-bottom: 300px;
     letter-spacing: 16px;
 }
 
@@ -73,7 +97,7 @@ letter-spacing: 6px;
     color: #FFF;
     display: inline-block;
     width: 300px;
-    margin: 35% 8% 10% 5%;
+    margin: 3% 8% 10% 5%;
     padding: 2px;
     text-align: center;
     border-style: dotted;
