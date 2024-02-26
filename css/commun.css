@@ -19,6 +19,7 @@ nav a:hover {
     transition: cubic-bezier();
 }
 
+
 body {
 background-image: url(../images/background-accueil.jpg);
 width: 100%;
