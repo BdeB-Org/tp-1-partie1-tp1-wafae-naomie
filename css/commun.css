@@ -5,7 +5,7 @@ nav a {
     justify-content: center;
     text-align: center;
     position: sticky;
-    margin-left: 620px;
+    margin-left: 43%;
     padding: 2px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 15px;
@@ -84,16 +84,8 @@ padding-bottom: 0%;
 }
 
 .paragraphe-cat1 {
-    color: #FFF;
-    text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: 900;
-    line-height: normal;
-    letter-spacing: 1px;
-    font-size: 100%;
-    display: inline-block;
-    vertical-align: top;
-    border: 3px solid #FFF;
+   text-align: center;
+   display: inline-block;
 
 }
 
