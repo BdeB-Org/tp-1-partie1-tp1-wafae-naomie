@@ -1,5 +1,14 @@
 
+nav a {
+    color :#FFF;
+    padding : 10px;
+    text-decoration: none;
+}
 
+nav a:hover {
+    font-size: 20px;
+    transition: cubic-bezier();
+}
 
 body {
 background-image: url(../images/background-accueil.jpg);
@@ -15,7 +24,7 @@ background-attachment: fixed;
 .description-accueil,
 .paragraphe-accueil {
 position: absolute;
-top: 50%;
+top: 30%;
 left: 50%;
 transform: translate(-50%, -50%);
 color: #FFF;
@@ -41,16 +50,7 @@ letter-spacing: 6px;
     letter-spacing: 6px;
     margin-top: 200px;
 }
-nav a {
-    color :#FFF;
-    padding : 10px;
-    text-decoration: none;
-}
 
-nav a:hover {
-    font-size: 20px;
-    transition: cubic-bezier();
-}
 
 .deco-titre {
 
@@ -58,5 +58,18 @@ nav a:hover {
     font-size: 30px;
     padding: 50px;
     letter-spacing: 16px;
+}
+
+.sectionIntro {
+    color: #FFF;
+    display: inline-block;
+    width: 300px;
+    margin: 35% 8% 10% 5%;
+    padding: 2px;
+    text-align: center;
+    border-style: dotted;
+    border: 3px dotted #FFF;
+    display: inline-block;
+    
 }
 
