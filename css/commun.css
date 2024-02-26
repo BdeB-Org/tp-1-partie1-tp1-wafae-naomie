@@ -38,6 +38,7 @@ background-attachment: fixed;
     font-weight: 500;
     padding-top: 10px;
     padding-bottom: 20px;
+    margin-left: 36px;
     
 }
 
@@ -45,7 +46,7 @@ background-attachment: fixed;
 .paragraphe-accueil {
 position: absolute;
 top: 30%;
-left: 50%;
+left: 52%;
 transform: translate(-50%, -50%);
 color: #FFF;
 font-size: 24px;
@@ -68,9 +69,8 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 font-weight: 500;
 line-height: normal;
 letter-spacing: 6px;
-padding-top: 40px;
-padding-bottom: 0px;
-padding-right: 30px;
+padding-top: 8%;
+padding-bottom: 0%;
 }
 
 .paragraphe-accueil {
@@ -100,6 +100,7 @@ padding-right: 30px;
 .deco-titre {
 
     color: #FFF;
+    text-align: center;
     font-size: 30px;
     padding: 50px;
     margin-bottom: 300px;
@@ -110,7 +111,7 @@ padding-right: 30px;
     color: #FFF;
     display: inline-block;
     width: 300px;
-    margin: 3% 8% 10% 5%;
+    margin: 3% 8% 30% 8%;
     padding: 2px;
     text-align: center;
     border-style: dotted;
