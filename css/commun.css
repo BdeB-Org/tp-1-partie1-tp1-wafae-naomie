@@ -87,12 +87,15 @@ padding-bottom: 0%;
 .paragraphe-cat1 {
     color:#FFF;
     font-weight: 600;
+    font-size: 120%;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    border: 3px solid #FFF;
-    width: 50%;
-    margin-left: 40%;
-    margin-bottom: 0%;
+    width: 36%;
+    float: right;
+    height: 78%;
+    margin: 20px 0;
+    margin-top: -13%;
+    margin-right: 10%;
 
 
 }
@@ -122,9 +125,12 @@ padding-bottom: 0%;
 }
 
 .image-principal {
-    width: 5%;
-
-
+    display: inline-block;
+    text-align: center; 
+    border: 3px solid #FFF;
+    padding: 0px;
+    margin-top: -15%;
+    margin-left: 12%;
 }
 
 .background-cat1 {
